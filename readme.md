@@ -53,6 +53,10 @@ Responsible for Kinyarwanda speech data collection, cleaning, preprocessing, and
 - **Institution**: University of Finance, China
 - **Education**: Bachelor's in Business School
 
+**Shen Hongquan**
+- **Institution**: University of Sussex, UK
+- **Education**: Bachelor's in Business School
+
 #### Model Training Team
 Responsible for model architecture design, training algorithm optimization, hyperparameter tuning, and model performance evaluation to ensure optimal model performance.
 
