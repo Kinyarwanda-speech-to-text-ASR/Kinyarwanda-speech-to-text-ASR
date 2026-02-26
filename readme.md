@@ -53,7 +53,7 @@ Responsible for Kinyarwanda speech data collection, cleaning, preprocessing, and
 - **Institution**: University of Finance, China
 - **Education**: Bachelor's in Business School
 
-**Shen Hongquan**
+**Chen Hongquan**
 - **Institution**: University of Sussex, UK
 - **Education**: Bachelor's in Business School
 
